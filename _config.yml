@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Ryan Forgie"
-  avatar           : /assets/images/NewProfile.jpg"
+  avatar           : /assets/images/NewProfile.jpg
   bio              : "I am an amazing person."
   location         : "Somewhere"
   email            :
