@@ -252,12 +252,11 @@ defaults:
       comments: # true
       share: true
       related: true
-   # _portfolio
+  # _portfolio
   - scope:
       path: ""
       type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
-      comment: true
